@@ -1,0 +1,11 @@
+adder
+black
+crane
+learn
+quake
+snake
+wyrdl
+hello
+plain
+print
+brown
